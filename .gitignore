@@ -1,0 +1,6 @@
+__.SYMDEF
+*.a
+*.o
+*.so
+*.bc
+*.ll
